@@ -58,6 +58,18 @@
 
 
 </div>
+ 
+ <h3 align="center"> Watch a Snake 🐍 eating my contribution graph </h3>
+<p align="center">
+<img src="https://github.com/nidhiii112/nidhiii112/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nidhiii112&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/nidhiii112/github-readme-activity-graph" width="700px"  /></div>
+<br/>
+
+
+
 
 
 ## Views and Followers
