@@ -57,11 +57,6 @@
 
 </div>
  
- <h3 align="center"> Watch a Snake 🐍 eating my contribution graph </h3>
-<p align="center">
-<img src="https://github.com/nidhiii112/nidhiii112/blob/output/github-contribution-grid-snake.svg">
-</p>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nidhiii112&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/nidhiii112/github-readme-activity-graph" width="700px"  /></div>
 <br/>
@@ -76,17 +71,3 @@
 </a>
 <a href="https://github.com/nidhiii112?tab=followers"><img src="https://img.shields.io/github/followers/nidhiii112?label=Followers&style=social" alt="GitHub Badge"></a>
  
-<!--
-**nidhiii112/nidhiii112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:nidhii950898@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
