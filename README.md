@@ -62,7 +62,7 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhiii112&theme=xcode&bg_color=FBEAEB&color=2F3C7E&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/nidhiii112/github-readme-activity-graph" width="700px"  /></div>
 <br/>
-
+ 
 
 ## Views and Followers
 <a href="https://github.com/nidhiii112/github-profile-views-counter">
