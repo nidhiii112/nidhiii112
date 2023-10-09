@@ -11,8 +11,7 @@
  
  - 💻 At the moment , I am aiming to upgrade my technical skills and develop web development projects.
  - 🙌 **Open Source Projects** are something I'd like to work on.
- - ✨ Interested in exploring the possibilities of **Android Development
-*
+ - ✨ Interested in exploring the possibilities of **Android Development**.
  - 📫 To get in touch with me, please email me at nidhii950898@gmail.com
 
 
