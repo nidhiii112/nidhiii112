@@ -6,7 +6,7 @@
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
 
-## 🤓About Me   
+## 🤓About Me    
   
  
  - 💻 At the moment , I am aiming to upgrade my technical skills and develop web development projects.
