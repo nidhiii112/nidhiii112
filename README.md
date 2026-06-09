@@ -2,15 +2,17 @@
 <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="200px" width ="200px"/>
 </div>
  
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nidhi Singh</h1>
-<h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nidhi Kumari</h1>
+<h3 align="center">Flutter Developer | Mobile App Enthusiast.</h3>
 
 
 ## 🤓About Me    
   
  
- - 💻 At the moment , I am aiming to upgrade my technical skills and develop web development projects.
+ - 💻 BCA Graduate / Student from University of Allahabad.
+ - 💻 MCA Post Graduate / Student from Galgotias College of Engineering and Technology.
  - 🙌 **Open Source Projects** are something I'd like to work on.
+ - 💡 Passionate about building Android & iOS applications using Flutter.
  - ✨ Interested in exploring the possibilities of **Android Development**.
  - 📫 To get in touch with me, please email me at nidhii950898@gmail.com
   
